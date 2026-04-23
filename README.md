@@ -1,7 +1,7 @@
 ## Welcome!
-## Not much here but I use GitHub for various, usually small, projects, I can program in Python and GDScript and I can work with Java and JavaScript albeit less than GDScript and Python.
-## I intend to, besides continuing to improve my skills with the 4 languages I can use to varying degrees, also learn C, C++, C# and Lua.
-## My work so far consists mostly of small projects, though I deleted most of the repositories that once contained those small projects, though I have also programmed an FRC robot in the past and am working on a game now.
+Not much here but I use GitHub for various, usually small, projects, I can program in Python and GDScript and I can work with Java and JavaScript albeit less than GDScript and Python.
+I intend to, besides continuing to improve my skills with the 4 languages I can use to varying degrees, also learn C, C++, C# and Lua.
+My work so far consists mostly of small projects, though I deleted most of the repositories that once contained those small projects, though I have also programmed an FRC robot in the past and am working on a game now.
 <!--
 **hacsizseferi/hacsizseferi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
