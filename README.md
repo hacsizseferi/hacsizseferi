@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome to camp GitHub! So you're the new replacement, you're out of repositories soldier, where is your source code?!
 Not much here but I use GitHub for various, usually small, projects, I can work with Python, GDScript, Java and JavaScript.  
 I intend to improve my skills with the 4 aforementioned languages and also learn C, C++, C# and Lua.  
 My work so far consists mostly of small projects, though I have also programmed an FRC robot in the past and am working on a game now.  
